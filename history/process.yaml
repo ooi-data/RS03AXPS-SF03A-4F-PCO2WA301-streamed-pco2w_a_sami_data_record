@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS03AXPS-SF03A-4F-PCO2WA301-streamed-pco2w_a_sami_data_record
 data_stream: RS03AXPS-SF03A-4F-PCO2WA301-streamed-pco2w_a_sami_data_record
 end_date: '2021-10-05T13:15:20.036Z'
-last_updated: '2021-10-06T00:09:59.792599Z'
+last_updated: '2021-10-06T00:24:42.991148'
 start_date: '2014-10-07T23:05:10.342Z'
-status: pending
+status: success
