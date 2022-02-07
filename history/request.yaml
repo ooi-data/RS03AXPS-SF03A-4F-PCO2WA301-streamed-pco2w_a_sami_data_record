@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: RS03AXPS-SF03A-4F-PCO2WA301-streamed-pco2w_a_sami_data_record
-last_request: '2022-01-21T17:52:04.050350Z'
+last_request: '2022-02-07T17:06:07.356555Z'
 response: https://raw.githubusercontent.com/ooi-data/RS03AXPS-SF03A-4F-PCO2WA301-streamed-pco2w_a_sami_data_record/main/history/response.json
-status: success
+status: pending
